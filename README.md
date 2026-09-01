@@ -1,3 +1,3 @@
 # git-merge-testing
 
-Test
+Testing merge strategies in GitHub.
